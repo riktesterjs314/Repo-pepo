@@ -4,6 +4,8 @@
     'jsdoc/check-tag-names': ['error', { definedTags: ['jest-environment'] }],
     'jsdoc/match-description': 'off',
 
+// here i need to leave a comment too //
+
       module.exports = function (api) {
   api.cache(false);
   return {
